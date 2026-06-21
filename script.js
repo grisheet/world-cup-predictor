@@ -430,24 +430,38 @@ function updateDashboard() {
   els.lineups.innerHTML = renderLineups(teamA, teamB);
 }
 
+let teams = [];
+
 async function loadTeams() {
+  const team1Select = document.getElementById("team1");
+  const team2Select = document.getElementById("team2");
+
   try {
-    const response = await fetch(DATA_PATH);
+    const response = await fetch("./data/teams.json");
 
     if (!response.ok) {
-      throw new Error(`Failed to load teams: ${response.status}`);
+      throw new Error(`HTTP error ${response.status}`);
     }
 
-    const rawTeams = await response.json();
-    state.teams = rawTeams.map(normalizeTeam);
-    populateTeamSelectors(state.teams);
-    setInitialContent();
+    teams = await response.json();
+
+    team1Select.innerHTML = '<option value="">Select a team</option>';
+    team2Select.innerHTML = '<option value="">Select a team</option>';
+
+    teams.forEach((team) => {
+      const option1 = document.createElement("option");
+      option1.value = team.name;
+      option1.textContent = team.name;
+      team1Select.appendChild(option1);
+
+      const option2 = document.createElement("option");
+      option2.value = team.name;
+      option2.textContent = team.name;
+      team2Select.appendChild(option2);
+    });
   } catch (error) {
-    console.error(error);
-    els.result.innerHTML = renderEmptyState("Could not load teams.json.");
-    els.comparison.innerHTML = renderEmptyState("Comparison unavailable.");
-    els.squads.innerHTML = renderEmptyState("Squad view unavailable.");
-    els.lineups.innerHTML = renderEmptyState("Lineup view unavailable.");
+    console.error("Failed to load teams:", error);
+    document.getElementById("result").innerHTML = "<p>Could not load teams.json.</p>";
   }
 }
 
