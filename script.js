@@ -430,8 +430,6 @@ function updateDashboard() {
   els.lineups.innerHTML = renderLineups(teamA, teamB);
 }
 
-let teams = [];
-
 async function loadTeams() {
   try {
     const response = await fetch("./data/teams.json");
