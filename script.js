@@ -432,7 +432,7 @@ function updateDashboard() {
 
 async function loadTeams() {
   try {
-    const response = await fetch("./data/teams.json");
+    const response = await fetch("./teams.json");
 
     if (!response.ok) {
       throw new Error(`Failed to load teams: ${response.status}`);
