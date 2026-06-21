@@ -1,0 +1,1507 @@
+[
+  {
+  "name": "Argentina",
+  "ratings": {
+    "attack": 89,
+    "midfield": 88,
+    "defense": 86,
+    "overall": 88
+  },
+  "manager": {
+    "name": "Lionel Scaloni",
+    "picture": "https://via.placeholder.com/120x120?text=LS"
+  },
+  "formation": "4-3-3",
+  "startingXI": [
+    {
+      "name": "Emiliano Martínez",
+      "position": "GK",
+      "picture": "https://via.placeholder.com/80x80?text=EM"
+    },
+    {
+      "name": "Nahuel Molina",
+      "position": "RB",
+      "picture": "https://via.placeholder.com/80x80?text=NM"
+    },
+    {
+      "name": "Cristian Romero",
+      "position": "CB",
+      "picture": "https://via.placeholder.com/80x80?text=CR"
+    },
+    {
+      "name": "Lisandro Martínez",
+      "position": "CB",
+      "picture": "https://via.placeholder.com/80x80?text=LM"
+    },
+    {
+      "name": "Nicolás Tagliafico",
+      "position": "LB",
+      "picture": "https://via.placeholder.com/80x80?text=NT"
+    },
+    {
+      "name": "Rodrigo De Paul",
+      "position": "CM",
+      "picture": "https://via.placeholder.com/80x80?text=RDP"
+    },
+    {
+      "name": "Enzo Fernández",
+      "position": "CM",
+      "picture": "https://via.placeholder.com/80x80?text=EF"
+    },
+    {
+      "name": "Alexis Mac Allister",
+      "position": "CM",
+      "picture": "https://via.placeholder.com/80x80?text=AMA"
+    },
+    {
+      "name": "Lionel Messi",
+      "position": "RW",
+      "picture": "https://via.placeholder.com/80x80?text=LM"
+    },
+    {
+      "name": "Julián Álvarez",
+      "position": "ST",
+      "picture": "https://via.placeholder.com/80x80?text=JA"
+    },
+    {
+      "name": "Lautaro Martínez",
+      "position": "LW",
+      "picture": "https://via.placeholder.com/80x80?text=LT"
+    }
+  ],
+  "substitutes": [
+    {
+      "name": "Gerónimo Rulli",
+      "position": "GK",
+      "picture": "https://via.placeholder.com/80x80?text=GR"
+    },
+    {
+      "name": "Juan Musso",
+      "position": "GK",
+      "picture": "https://via.placeholder.com/80x80?text=JM"
+    },
+    {
+      "name": "Gonzalo Montiel",
+      "position": "RB",
+      "picture": "https://via.placeholder.com/80x80?text=GM"
+    },
+    {
+      "name": "Nicolás Otamendi",
+      "position": "CB",
+      "picture": "https://via.placeholder.com/80x80?text=NO"
+    },
+    {
+      "name": "Facundo Medina",
+      "position": "CB",
+      "picture": "https://via.placeholder.com/80x80?text=FM"
+    },
+    {
+      "name": "Leandro Paredes",
+      "position": "DM",
+      "picture": "https://via.placeholder.com/80x80?text=LP"
+    },
+    {
+      "name": "Giovani Lo Celso",
+      "position": "CM",
+      "picture": "https://via.placeholder.com/80x80?text=GLC"
+    }
+  ],
+  "reserves": [
+    {
+      "name": "Exequiel Palacios",
+      "position": "CM",
+      "picture": "https://via.placeholder.com/80x80?text=EP"
+    },
+    {
+      "name": "Thiago Almada",
+      "position": "AM",
+      "picture": "https://via.placeholder.com/80x80?text=TA"
+    },
+    {
+      "name": "Nico Paz",
+      "position": "AM",
+      "picture": "https://via.placeholder.com/80x80?text=NP"
+    },
+    {
+      "name": "Nico González",
+      "position": "LW",
+      "picture": "https://via.placeholder.com/80x80?text=NG"
+    },
+    {
+      "name": "Giuliano Simeone",
+      "position": "RW",
+      "picture": "https://via.placeholder.com/80x80?text=GS"
+    },
+    {
+      "name": "José Manuel López",
+      "position": "ST",
+      "picture": "https://via.placeholder.com/80x80?text=JML"
+    },
+    {
+      "name": "Leonardo Balerdi",
+      "position": "CB",
+      "picture": "https://via.placeholder.com/80x80?text=LB"
+    },
+    {
+      "name": "Valentín Barco",
+      "position": "LB",
+      "picture": "https://via.placeholder.com/80x80?text=VB"
+    }
+  ]
+},
+{
+  "name": "Brazil",
+  "ratings": {
+    "attack": 88,
+    "midfield": 86,
+    "defense": 84,
+    "overall": 86
+  },
+  "manager": {
+    "name": "Carlo Ancelotti",
+    "picture": "https://via.placeholder.com/120x120?text=CA"
+  },
+  "formation": "4-2-3-1",
+  "startingXI": [
+    {
+      "name": "Alisson",
+      "position": "GK",
+      "picture": "https://via.placeholder.com/80x80?text=AL"
+    },
+    {
+      "name": "Wesley",
+      "position": "RB",
+      "picture": "https://via.placeholder.com/80x80?text=WE"
+    },
+    {
+      "name": "Marquinhos",
+      "position": "CB",
+      "picture": "https://via.placeholder.com/80x80?text=MQ"
+    },
+    {
+      "name": "Gabriel Magalhães",
+      "position": "CB",
+      "picture": "https://via.placeholder.com/80x80?text=GM"
+    },
+    {
+      "name": "Alex Sandro",
+      "position": "LB",
+      "picture": "https://via.placeholder.com/80x80?text=AS"
+    },
+    {
+      "name": "Casemiro",
+      "position": "DM",
+      "picture": "https://via.placeholder.com/80x80?text=CA"
+    },
+    {
+      "name": "Bruno Guimarães",
+      "position": "CM",
+      "picture": "https://via.placeholder.com/80x80?text=BG"
+    },
+    {
+      "name": "Lucas Paquetá",
+      "position": "AM",
+      "picture": "https://via.placeholder.com/80x80?text=LP"
+    },
+    {
+      "name": "Raphinha",
+      "position": "RW",
+      "picture": "https://via.placeholder.com/80x80?text=RA"
+    },
+    {
+      "name": "Vinícius Júnior",
+      "position": "LW",
+      "picture": "https://via.placeholder.com/80x80?text=VJ"
+    },
+    {
+      "name": "Neymar",
+      "position": "ST",
+      "picture": "https://via.placeholder.com/80x80?text=NJ"
+    }
+  ],
+  "substitutes": [
+    {
+      "name": "Ederson",
+      "position": "GK",
+      "picture": "https://via.placeholder.com/80x80?text=ED"
+    },
+    {
+      "name": "Weverton",
+      "position": "GK",
+      "picture": "https://via.placeholder.com/80x80?text=WV"
+    },
+    {
+      "name": "Bremer",
+      "position": "CB",
+      "picture": "https://via.placeholder.com/80x80?text=BR"
+    },
+    {
+      "name": "Danilo",
+      "position": "RB",
+      "picture": "https://via.placeholder.com/80x80?text=DA"
+    },
+    {
+      "name": "Léo Pereira",
+      "position": "CB",
+      "picture": "https://via.placeholder.com/80x80?text=LP"
+    },
+    {
+      "name": "Fabinho",
+      "position": "CM",
+      "picture": "https://via.placeholder.com/80x80?text=FA"
+    },
+    {
+      "name": "Danilo",
+      "position": "CM",
+      "picture": "https://via.placeholder.com/80x80?text=DB"
+    }
+  ],
+  "reserves": [
+    {
+      "name": "Douglas Santos",
+      "position": "LB",
+      "picture": "https://via.placeholder.com/80x80?text=DS"
+    },
+    {
+      "name": "Roger Ibáñez",
+      "position": "CB",
+      "picture": "https://via.placeholder.com/80x80?text=RI"
+    },
+    {
+      "name": "Gabriel Martinelli",
+      "position": "LW",
+      "picture": "https://via.placeholder.com/80x80?text=GM"
+    },
+    {
+      "name": "Endrick",
+      "position": "ST",
+      "picture": "https://via.placeholder.com/80x80?text=EN"
+    },
+    {
+      "name": "Matheus Cunha",
+      "position": "ST",
+      "picture": "https://via.placeholder.com/80x80?text=MC"
+    },
+    {
+      "name": "Luiz Henrique",
+      "position": "RW",
+      "picture": "https://via.placeholder.com/80x80?text=LH"
+    },
+    {
+      "name": "Igor Thiago",
+      "position": "ST",
+      "picture": "https://via.placeholder.com/80x80?text=IT"
+    },
+    {
+      "name": "Rayan",
+      "position": "RW",
+      "picture": "https://via.placeholder.com/80x80?text=RY"
+    }
+  ]
+},
+{
+  "name": "England",
+  "ratings": {
+    "attack": 87,
+    "midfield": 88,
+    "defense": 85,
+    "overall": 87
+  },
+  "manager": {
+    "name": "Thomas Tuchel",
+    "picture": "https://via.placeholder.com/120x120?text=TT"
+  },
+  "formation": "4-2-3-1",
+  "startingXI": [
+    {
+      "name": "Jordan Pickford",
+      "position": "GK",
+      "picture": "https://via.placeholder.com/80x80?text=JP"
+    },
+    {
+      "name": "Reece James",
+      "position": "RB",
+      "picture": "https://via.placeholder.com/80x80?text=RJ"
+    },
+    {
+      "name": "John Stones",
+      "position": "CB",
+      "picture": "https://via.placeholder.com/80x80?text=JS"
+    },
+    {
+      "name": "Marc Gu\u00e9hi",
+      "position": "CB",
+      "picture": "https://via.placeholder.com/80x80?text=MG"
+    },
+    {
+      "name": "Tino Livramento",
+      "position": "LB",
+      "picture": "https://via.placeholder.com/80x80?text=TL"
+    },
+    {
+      "name": "Declan Rice",
+      "position": "DM",
+      "picture": "https://via.placeholder.com/80x80?text=DR"
+    },
+    {
+      "name": "Jude Bellingham",
+      "position": "CM",
+      "picture": "https://via.placeholder.com/80x80?text=JB"
+    },
+    {
+      "name": "Eberechi Eze",
+      "position": "AM",
+      "picture": "https://via.placeholder.com/80x80?text=EE"
+    },
+    {
+      "name": "Bukayo Saka",
+      "position": "RW",
+      "picture": "https://via.placeholder.com/80x80?text=BS"
+    },
+    {
+      "name": "Anthony Gordon",
+      "position": "LW",
+      "picture": "https://via.placeholder.com/80x80?text=AG"
+    },
+    {
+      "name": "Harry Kane",
+      "position": "ST",
+      "picture": "https://via.placeholder.com/80x80?text=HK"
+    }
+  ],
+  "substitutes": [
+    {
+      "name": "Dean Henderson",
+      "position": "GK",
+      "picture": "https://via.placeholder.com/80x80?text=DH"
+    },
+    {
+      "name": "James Trafford",
+      "position": "GK",
+      "picture": "https://via.placeholder.com/80x80?text=JT"
+    },
+    {
+      "name": "Ezri Konsa",
+      "position": "CB",
+      "picture": "https://via.placeholder.com/80x80?text=EK"
+    },
+    {
+      "name": "Dan Burn",
+      "position": "CB",
+      "picture": "https://via.placeholder.com/80x80?text=DB"
+    },
+    {
+      "name": "Trevoh Chalobah",
+      "position": "CB",
+      "picture": "https://via.placeholder.com/80x80?text=TC"
+    },
+    {
+      "name": "Djed Spence",
+      "position": "RB",
+      "picture": "https://via.placeholder.com/80x80?text=DS"
+    },
+    {
+      "name": "Kobbie Mainoo",
+      "position": "CM",
+      "picture": "https://via.placeholder.com/80x80?text=KM"
+    }
+  ],
+  "reserves": [
+    {
+      "name": "Jordan Henderson",
+      "position": "CM",
+      "picture": "https://via.placeholder.com/80x80?text=JH"
+    },
+    {
+      "name": "Morgan Rogers",
+      "position": "AM",
+      "picture": "https://via.placeholder.com/80x80?text=MR"
+    },
+    {
+      "name": "Elliot Anderson",
+      "position": "CM",
+      "picture": "https://via.placeholder.com/80x80?text=EA"
+    },
+    {
+      "name": "Nico O'Reilly",
+      "position": "LB",
+      "picture": "https://via.placeholder.com/80x80?text=NO"
+    },
+    {
+      "name": "Jarell Quansah",
+      "position": "CB",
+      "picture": "https://via.placeholder.com/80x80?text=JQ"
+    },
+    {
+      "name": "Noni Madueke",
+      "position": "RW",
+      "picture": "https://via.placeholder.com/80x80?text=NM"
+    },
+    {
+      "name": "Marcus Rashford",
+      "position": "LW",
+      "picture": "https://via.placeholder.com/80x80?text=MR"
+    },
+    {
+      "name": "Ivan Toney",
+      "position": "ST",
+      "picture": "https://via.placeholder.com/80x80?text=IT"
+    },
+    {
+      "name": "Ollie Watkins",
+      "position": "ST",
+      "picture": "https://via.placeholder.com/80x80?text=OW"
+    }
+  ]
+},
+{
+  "name": "France",
+  "ratings": {
+    "attack": 90,
+    "midfield": 87,
+    "defense": 88,
+    "overall": 89
+  },
+  "manager": {
+    "name": "Didier Deschamps",
+    "picture": "https://via.placeholder.com/120x120?text=DD"
+  },
+  "formation": "4-2-3-1",
+  "startingXI": [
+    {
+      "name": "Mike Maignan",
+      "position": "GK",
+      "picture": "https://via.placeholder.com/80x80?text=MM"
+    },
+    {
+      "name": "Jules Kound\u00e9",
+      "position": "RB",
+      "picture": "https://via.placeholder.com/80x80?text=JK"
+    },
+    {
+      "name": "William Saliba",
+      "position": "CB",
+      "picture": "https://via.placeholder.com/80x80?text=WS"
+    },
+    {
+      "name": "Dayot Upamecano",
+      "position": "CB",
+      "picture": "https://via.placeholder.com/80x80?text=DU"
+    },
+    {
+      "name": "Th\u00e9o Hern\u00e1ndez",
+      "position": "LB",
+      "picture": "https://via.placeholder.com/80x80?text=TH"
+    },
+    {
+      "name": "Aur\u00e9lien Tchouam\u00e9ni",
+      "position": "DM",
+      "picture": "https://via.placeholder.com/80x80?text=AT"
+    },
+    {
+      "name": "Adrien Rabiot",
+      "position": "CM",
+      "picture": "https://via.placeholder.com/80x80?text=AR"
+    },
+    {
+      "name": "Michael Olise",
+      "position": "AM",
+      "picture": "https://via.placeholder.com/80x80?text=MO"
+    },
+    {
+      "name": "Ousmane Demb\u00e9l\u00e9",
+      "position": "RW",
+      "picture": "https://via.placeholder.com/80x80?text=OD"
+    },
+    {
+      "name": "Bradley Barcola",
+      "position": "LW",
+      "picture": "https://via.placeholder.com/80x80?text=BB"
+    },
+    {
+      "name": "Kylian Mbapp\u00e9",
+      "position": "ST",
+      "picture": "https://via.placeholder.com/80x80?text=KM"
+    }
+  ],
+  "substitutes": [
+    {
+      "name": "Brice Samba",
+      "position": "GK",
+      "picture": "https://via.placeholder.com/80x80?text=BS"
+    },
+    {
+      "name": "Robin Risser",
+      "position": "GK",
+      "picture": "https://via.placeholder.com/80x80?text=RR"
+    },
+    {
+      "name": "Ibrahima Konat\u00e9",
+      "position": "CB",
+      "picture": "https://via.placeholder.com/80x80?text=IK"
+    },
+    {
+      "name": "Lucas Hern\u00e1ndez",
+      "position": "CB",
+      "picture": "https://via.placeholder.com/80x80?text=LH"
+    },
+    {
+      "name": "Malo Gusto",
+      "position": "RB",
+      "picture": "https://via.placeholder.com/80x80?text=MG"
+    },
+    {
+      "name": "N'Golo Kant\u00e9",
+      "position": "CM",
+      "picture": "https://via.placeholder.com/80x80?text=NK"
+    },
+    {
+      "name": "Warren Za\u00efre-Emery",
+      "position": "CM",
+      "picture": "https://via.placeholder.com/80x80?text=WZ"
+    }
+  ],
+  "reserves": [
+    {
+      "name": "Lucas Digne",
+      "position": "LB",
+      "picture": "https://via.placeholder.com/80x80?text=LD"
+    },
+    {
+      "name": "Maxence Lacroix",
+      "position": "CB",
+      "picture": "https://via.placeholder.com/80x80?text=ML"
+    },
+    {
+      "name": "Manu Kon\u00e9",
+      "position": "CM",
+      "picture": "https://via.placeholder.com/80x80?text=MK"
+    },
+    {
+      "name": "Rayan Cherki",
+      "position": "AM",
+      "picture": "https://via.placeholder.com/80x80?text=RC"
+    },
+    {
+      "name": "D\u00e9sir\u00e9 Dou\u00e9",
+      "position": "LW",
+      "picture": "https://via.placeholder.com/80x80?text=DD"
+    },
+    {
+      "name": "Maghnes Akliouche",
+      "position": "RW",
+      "picture": "https://via.placeholder.com/80x80?text=MA"
+    },
+    {
+      "name": "Marcus Thuram",
+      "position": "ST",
+      "picture": "https://via.placeholder.com/80x80?text=MT"
+    },
+    {
+      "name": "Jean-Philippe Mateta",
+      "position": "ST",
+      "picture": "https://via.placeholder.com/80x80?text=JM"
+    }
+  ]
+},
+{
+  "name": "Germany",
+  "ratings": {
+    "attack": 86,
+    "midfield": 89,
+    "defense": 86,
+    "overall": 87
+  },
+  "manager": {
+    "name": "Julian Nagelsmann",
+    "picture": "https://via.placeholder.com/120x120?text=JN"
+  },
+  "formation": "4-2-3-1",
+  "startingXI": [
+    {
+      "name": "Manuel Neuer",
+      "position": "GK",
+      "picture": "https://via.placeholder.com/80x80?text=MN"
+    },
+    {
+      "name": "Joshua Kimmich",
+      "position": "RB",
+      "picture": "https://via.placeholder.com/80x80?text=JK"
+    },
+    {
+      "name": "Antonio R\u00fcdiger",
+      "position": "CB",
+      "picture": "https://via.placeholder.com/80x80?text=AR"
+    },
+    {
+      "name": "Jonathan Tah",
+      "position": "CB",
+      "picture": "https://via.placeholder.com/80x80?text=JT"
+    },
+    {
+      "name": "David Raum",
+      "position": "LB",
+      "picture": "https://via.placeholder.com/80x80?text=DR"
+    },
+    {
+      "name": "Angelo Stiller",
+      "position": "DM",
+      "picture": "https://via.placeholder.com/80x80?text=AS"
+    },
+    {
+      "name": "Leon Goretzka",
+      "position": "CM",
+      "picture": "https://via.placeholder.com/80x80?text=LG"
+    },
+    {
+      "name": "Florian Wirtz",
+      "position": "AM",
+      "picture": "https://via.placeholder.com/80x80?text=FW"
+    },
+    {
+      "name": "Leroy San\u00e9",
+      "position": "RW",
+      "picture": "https://via.placeholder.com/80x80?text=LS"
+    },
+    {
+      "name": "Jamal Musiala",
+      "position": "LW",
+      "picture": "https://via.placeholder.com/80x80?text=JM"
+    },
+    {
+      "name": "Kai Havertz",
+      "position": "ST",
+      "picture": "https://via.placeholder.com/80x80?text=KH"
+    }
+  ],
+  "substitutes": [
+    {
+      "name": "Oliver Baumann",
+      "position": "GK",
+      "picture": "https://via.placeholder.com/80x80?text=OB"
+    },
+    {
+      "name": "Alexander N\u00fcbel",
+      "position": "GK",
+      "picture": "https://via.placeholder.com/80x80?text=AN"
+    },
+    {
+      "name": "Nico Schlotterbeck",
+      "position": "CB",
+      "picture": "https://via.placeholder.com/80x80?text=NS"
+    },
+    {
+      "name": "Malick Thiaw",
+      "position": "CB",
+      "picture": "https://via.placeholder.com/80x80?text=MT"
+    },
+    {
+      "name": "Waldemar Anton",
+      "position": "CB",
+      "picture": "https://via.placeholder.com/80x80?text=WA"
+    },
+    {
+      "name": "Nathaniel Brown",
+      "position": "LB",
+      "picture": "https://via.placeholder.com/80x80?text=NB"
+    },
+    {
+      "name": "Pascal Gro\u00df",
+      "position": "CM",
+      "picture": "https://via.placeholder.com/80x80?text=PG"
+    }
+  ],
+  "reserves": [
+    {
+      "name": "Aleksandar Pavlovi\u0107",
+      "position": "CM",
+      "picture": "https://via.placeholder.com/80x80?text=AP"
+    },
+    {
+      "name": "Felix Nmecha",
+      "position": "CM",
+      "picture": "https://via.placeholder.com/80x80?text=FN"
+    },
+    {
+      "name": "Nadiem Amiri",
+      "position": "CM",
+      "picture": "https://via.placeholder.com/80x80?text=NA"
+    },
+    {
+      "name": "Lennart Karl",
+      "position": "AM",
+      "picture": "https://via.placeholder.com/80x80?text=LK"
+    },
+    {
+      "name": "Jamie Leweling",
+      "position": "RW",
+      "picture": "https://via.placeholder.com/80x80?text=JL"
+    },
+    {
+      "name": "Maximilian Beier",
+      "position": "ST",
+      "picture": "https://via.placeholder.com/80x80?text=MB"
+    },
+    {
+      "name": "Deniz Undav",
+      "position": "ST",
+      "picture": "https://via.placeholder.com/80x80?text=DU"
+    },
+    {
+      "name": "Nick Woltemade",
+      "position": "ST",
+      "picture": "https://via.placeholder.com/80x80?text=NW"
+    }
+  ]
+},
+{
+  "name": "Spain",
+  "ratings": {
+    "attack": 88,
+    "midfield": 90,
+    "defense": 86,
+    "overall": 88
+  },
+  "manager": {
+    "name": "Luis de la Fuente",
+    "picture": "https://via.placeholder.com/120x120?text=LDF"
+  },
+  "formation": "4-3-3",
+  "startingXI": [
+    {
+      "name": "Unai Sim\u00f3n",
+      "position": "GK",
+      "picture": "https://via.placeholder.com/80x80?text=US"
+    },
+    {
+      "name": "Pedro Porro",
+      "position": "RB",
+      "picture": "https://via.placeholder.com/80x80?text=PP"
+    },
+    {
+      "name": "Robin Le Normand",
+      "position": "CB",
+      "picture": "https://via.placeholder.com/80x80?text=RL"
+    },
+    {
+      "name": "Pau Cubars\u00ed",
+      "position": "CB",
+      "picture": "https://via.placeholder.com/80x80?text=PC"
+    },
+    {
+      "name": "Marc Cucurella",
+      "position": "LB",
+      "picture": "https://via.placeholder.com/80x80?text=MC"
+    },
+    {
+      "name": "Rodri",
+      "position": "DM",
+      "picture": "https://via.placeholder.com/80x80?text=RO"
+    },
+    {
+      "name": "Pedri",
+      "position": "CM",
+      "picture": "https://via.placeholder.com/80x80?text=PE"
+    },
+    {
+      "name": "Fabi\u00e1n Ruiz",
+      "position": "CM",
+      "picture": "https://via.placeholder.com/80x80?text=FR"
+    },
+    {
+      "name": "Lamine Yamal",
+      "position": "RW",
+      "picture": "https://via.placeholder.com/80x80?text=LY"
+    },
+    {
+      "name": "Nico Williams",
+      "position": "LW",
+      "picture": "https://via.placeholder.com/80x80?text=NW"
+    },
+    {
+      "name": "Mikel Oyarzabal",
+      "position": "ST",
+      "picture": "https://via.placeholder.com/80x80?text=MO"
+    }
+  ],
+  "substitutes": [
+    {
+      "name": "David Raya",
+      "position": "GK",
+      "picture": "https://via.placeholder.com/80x80?text=DR"
+    },
+    {
+      "name": "Joan Garc\u00eda",
+      "position": "GK",
+      "picture": "https://via.placeholder.com/80x80?text=JG"
+    },
+    {
+      "name": "Aymeric Laporte",
+      "position": "CB",
+      "picture": "https://via.placeholder.com/80x80?text=AL"
+    },
+    {
+      "name": "Eric Garc\u00eda",
+      "position": "CB",
+      "picture": "https://via.placeholder.com/80x80?text=EG"
+    },
+    {
+      "name": "Alejandro Grimaldo",
+      "position": "LB",
+      "picture": "https://via.placeholder.com/80x80?text=AG"
+    },
+    {
+      "name": "Mart\u00edn Zubimendi",
+      "position": "CM",
+      "picture": "https://via.placeholder.com/80x80?text=MZ"
+    },
+    {
+      "name": "Dani Olmo",
+      "position": "AM",
+      "picture": "https://via.placeholder.com/80x80?text=DO"
+    }
+  ],
+  "reserves": [
+    {
+      "name": "Marcos Llorente",
+      "position": "RB",
+      "picture": "https://via.placeholder.com/80x80?text=ML"
+    },
+    {
+      "name": "Marc Pubill",
+      "position": "RB",
+      "picture": "https://via.placeholder.com/80x80?text=MP"
+    },
+    {
+      "name": "Gavi",
+      "position": "CM",
+      "picture": "https://via.placeholder.com/80x80?text=GA"
+    },
+    {
+      "name": "Mikel Merino",
+      "position": "CM",
+      "picture": "https://via.placeholder.com/80x80?text=MM"
+    },
+    {
+      "name": "\u00c1lex Baena",
+      "position": "LW",
+      "picture": "https://via.placeholder.com/80x80?text=AB"
+    },
+    {
+      "name": "Yeremy Pino",
+      "position": "RW",
+      "picture": "https://via.placeholder.com/80x80?text=YP"
+    },
+    {
+      "name": "Ferran Torres",
+      "position": "ST",
+      "picture": "https://via.placeholder.com/80x80?text=FT"
+    },
+    {
+      "name": "Borja Iglesias",
+      "position": "ST",
+      "picture": "https://via.placeholder.com/80x80?text=BI"
+    }
+  ]
+},
+{
+  "name": "Netherlands",
+  "ratings": {
+    "attack": 85,
+    "midfield": 87,
+    "defense": 87,
+    "overall": 86
+  },
+  "manager": {
+    "name": "Ronald Koeman",
+    "picture": "https://via.placeholder.com/120x120?text=RK"
+  },
+  "formation": "4-2-3-1",
+  "startingXI": [
+    {
+      "name": "Bart Verbruggen",
+      "position": "GK",
+      "picture": "https://via.placeholder.com/80x80?text=BV"
+    },
+    {
+      "name": "Denzel Dumfries",
+      "position": "RB",
+      "picture": "https://via.placeholder.com/80x80?text=DD"
+    },
+    {
+      "name": "Virgil van Dijk",
+      "position": "CB",
+      "picture": "https://via.placeholder.com/80x80?text=VD"
+    },
+    {
+      "name": "Micky van de Ven",
+      "position": "CB",
+      "picture": "https://via.placeholder.com/80x80?text=MV"
+    },
+    {
+      "name": "Nathan Ak\u00e9",
+      "position": "LB",
+      "picture": "https://via.placeholder.com/80x80?text=NA"
+    },
+    {
+      "name": "Frenkie de Jong",
+      "position": "DM",
+      "picture": "https://via.placeholder.com/80x80?text=FD"
+    },
+    {
+      "name": "Tijjani Reijnders",
+      "position": "CM",
+      "picture": "https://via.placeholder.com/80x80?text=TR"
+    },
+    {
+      "name": "Teun Koopmeiners",
+      "position": "AM",
+      "picture": "https://via.placeholder.com/80x80?text=TK"
+    },
+    {
+      "name": "Justin Kluivert",
+      "position": "RW",
+      "picture": "https://via.placeholder.com/80x80?text=JK"
+    },
+    {
+      "name": "Cody Gakpo",
+      "position": "LW",
+      "picture": "https://via.placeholder.com/80x80?text=CG"
+    },
+    {
+      "name": "Memphis Depay",
+      "position": "ST",
+      "picture": "https://via.placeholder.com/80x80?text=MD"
+    }
+  ],
+  "substitutes": [
+    {
+      "name": "Mark Flekken",
+      "position": "GK",
+      "picture": "https://via.placeholder.com/80x80?text=MF"
+    },
+    {
+      "name": "Robin Roefs",
+      "position": "GK",
+      "picture": "https://via.placeholder.com/80x80?text=RR"
+    },
+    {
+      "name": "Jurri\u00ebn Timber",
+      "position": "CB",
+      "picture": "https://via.placeholder.com/80x80?text=JT"
+    },
+    {
+      "name": "Jorrel Hato",
+      "position": "LB",
+      "picture": "https://via.placeholder.com/80x80?text=JH"
+    },
+    {
+      "name": "Jan Paul van Hecke",
+      "position": "CB",
+      "picture": "https://via.placeholder.com/80x80?text=JH"
+    },
+    {
+      "name": "Ryan Gravenberch",
+      "position": "CM",
+      "picture": "https://via.placeholder.com/80x80?text=RG"
+    },
+    {
+      "name": "Quinten Timber",
+      "position": "CM",
+      "picture": "https://via.placeholder.com/80x80?text=QT"
+    }
+  ],
+  "reserves": [
+    {
+      "name": "Marten de Roon",
+      "position": "CM",
+      "picture": "https://via.placeholder.com/80x80?text=MR"
+    },
+    {
+      "name": "Mats Wieffer",
+      "position": "CB",
+      "picture": "https://via.placeholder.com/80x80?text=MW"
+    },
+    {
+      "name": "Guus Til",
+      "position": "AM",
+      "picture": "https://via.placeholder.com/80x80?text=GT"
+    },
+    {
+      "name": "Noa Lang",
+      "position": "LW",
+      "picture": "https://via.placeholder.com/80x80?text=NL"
+    },
+    {
+      "name": "Donyell Malen",
+      "position": "RW",
+      "picture": "https://via.placeholder.com/80x80?text=DM"
+    },
+    {
+      "name": "Crysencio Summerville",
+      "position": "LW",
+      "picture": "https://via.placeholder.com/80x80?text=CS"
+    },
+    {
+      "name": "Brian Brobbey",
+      "position": "ST",
+      "picture": "https://via.placeholder.com/80x80?text=BB"
+    },
+    {
+      "name": "Wout Weghorst",
+      "position": "ST",
+      "picture": "https://via.placeholder.com/80x80?text=WW"
+    }
+  ]
+},
+{
+  "name": "Morocco",
+  "ratings": {
+    "attack": 84,
+    "midfield": 84,
+    "defense": 85,
+    "overall": 84
+  },
+  "manager": {
+    "name": "Mohamed Ouahbi",
+    "picture": "https://via.placeholder.com/120x120?text=MO"
+  },
+  "formation": "4-1-4-1",
+  "startingXI": [
+    {
+      "name": "Yassine Bounou",
+      "position": "GK",
+      "picture": "https://via.placeholder.com/80x80?text=YB"
+    },
+    {
+      "name": "Achraf Hakimi",
+      "position": "RB",
+      "picture": "https://via.placeholder.com/80x80?text=AH"
+    },
+    {
+      "name": "Nayef Aguerd",
+      "position": "CB",
+      "picture": "https://via.placeholder.com/80x80?text=NA"
+    },
+    {
+      "name": "Chadi Riad",
+      "position": "CB",
+      "picture": "https://via.placeholder.com/80x80?text=CR"
+    },
+    {
+      "name": "Noussair Mazraoui",
+      "position": "LB",
+      "picture": "https://via.placeholder.com/80x80?text=NM"
+    },
+    {
+      "name": "Sofyan Amrabat",
+      "position": "DM",
+      "picture": "https://via.placeholder.com/80x80?text=SA"
+    },
+    {
+      "name": "Bilal El Khannouss",
+      "position": "CM",
+      "picture": "https://via.placeholder.com/80x80?text=BK"
+    },
+    {
+      "name": "Azzedine Ounahi",
+      "position": "CM",
+      "picture": "https://via.placeholder.com/80x80?text=AO"
+    },
+    {
+      "name": "Brahim Diaz",
+      "position": "RW",
+      "picture": "https://via.placeholder.com/80x80?text=BD"
+    },
+    {
+      "name": "Abdessamad Ezzalzouli",
+      "position": "LW",
+      "picture": "https://via.placeholder.com/80x80?text=AE"
+    },
+    {
+      "name": "Soufiane Rahimi",
+      "position": "ST",
+      "picture": "https://via.placeholder.com/80x80?text=SR"
+    }
+  ],
+  "substitutes": [
+    {
+      "name": "Munir El Kajoui",
+      "position": "GK",
+      "picture": "https://via.placeholder.com/80x80?text=MK"
+    },
+    {
+      "name": "Ahmed Reda Tagnaouti",
+      "position": "GK",
+      "picture": "https://via.placeholder.com/80x80?text=AT"
+    },
+    {
+      "name": "Issa Diop",
+      "position": "CB",
+      "picture": "https://via.placeholder.com/80x80?text=ID"
+    },
+    {
+      "name": "Zakaria El Ouahdi",
+      "position": "RB",
+      "picture": "https://via.placeholder.com/80x80?text=ZO"
+    },
+    {
+      "name": "Anass Salah-Eddine",
+      "position": "LB",
+      "picture": "https://via.placeholder.com/80x80?text=AS"
+    },
+    {
+      "name": "Ismael Saibari",
+      "position": "AM",
+      "picture": "https://via.placeholder.com/80x80?text=IS"
+    },
+    {
+      "name": "Neil El Aynaoui",
+      "position": "CM",
+      "picture": "https://via.placeholder.com/80x80?text=NE"
+    }
+  ],
+  "reserves": [
+    {
+      "name": "Youssef Belammari",
+      "position": "CB",
+      "picture": "https://via.placeholder.com/80x80?text=YB"
+    },
+    {
+      "name": "Redouane Halhal",
+      "position": "CB",
+      "picture": "https://via.placeholder.com/80x80?text=RH"
+    },
+    {
+      "name": "Samir El Mourabet",
+      "position": "CM",
+      "picture": "https://via.placeholder.com/80x80?text=SM"
+    },
+    {
+      "name": "Ayyoub Bouaddi",
+      "position": "CM",
+      "picture": "https://via.placeholder.com/80x80?text=AB"
+    },
+    {
+      "name": "Chemsdine Talbi",
+      "position": "RW",
+      "picture": "https://via.placeholder.com/80x80?text=CT"
+    },
+    {
+      "name": "Yassine Gessime",
+      "position": "LW",
+      "picture": "https://via.placeholder.com/80x80?text=YG"
+    },
+    {
+      "name": "Ayoub El Kaabi",
+      "position": "ST",
+      "picture": "https://via.placeholder.com/80x80?text=AK"
+    },
+    {
+      "name": "Ayoube Amaimouni",
+      "position": "ST",
+      "picture": "https://via.placeholder.com/80x80?text=AA"
+    }
+  ]
+},
+{
+  "name": "Portugal",
+  "ratings": {
+    "attack": 88,
+    "midfield": 89,
+    "defense": 86,
+    "overall": 88
+  },
+  "manager": {
+    "name": "Roberto Martinez",
+    "picture": "https://via.placeholder.com/120x120?text=RM"
+  },
+  "formation": "4-2-3-1",
+  "startingXI": [
+    {
+      "name": "Diogo Costa",
+      "position": "GK",
+      "picture": "https://via.placeholder.com/80x80?text=DC"
+    },
+    {
+      "name": "Joao Cancelo",
+      "position": "RB",
+      "picture": "https://via.placeholder.com/80x80?text=JC"
+    },
+    {
+      "name": "Ruben Dias",
+      "position": "CB",
+      "picture": "https://via.placeholder.com/80x80?text=RD"
+    },
+    {
+      "name": "Goncalo Inacio",
+      "position": "CB",
+      "picture": "https://via.placeholder.com/80x80?text=GI"
+    },
+    {
+      "name": "Nuno Mendes",
+      "position": "LB",
+      "picture": "https://via.placeholder.com/80x80?text=NM"
+    },
+    {
+      "name": "Vitinha",
+      "position": "DM",
+      "picture": "https://via.placeholder.com/80x80?text=VI"
+    },
+    {
+      "name": "Joao Neves",
+      "position": "CM",
+      "picture": "https://via.placeholder.com/80x80?text=JN"
+    },
+    {
+      "name": "Bruno Fernandes",
+      "position": "AM",
+      "picture": "https://via.placeholder.com/80x80?text=BF"
+    },
+    {
+      "name": "Bernardo Silva",
+      "position": "RW",
+      "picture": "https://via.placeholder.com/80x80?text=BS"
+    },
+    {
+      "name": "Rafael Leao",
+      "position": "LW",
+      "picture": "https://via.placeholder.com/80x80?text=RL"
+    },
+    {
+      "name": "Cristiano Ronaldo",
+      "position": "ST",
+      "picture": "https://via.placeholder.com/80x80?text=CR"
+    }
+  ],
+  "substitutes": [
+    {
+      "name": "Jose Sa",
+      "position": "GK",
+      "picture": "https://via.placeholder.com/80x80?text=JS"
+    },
+    {
+      "name": "Rui Silva",
+      "position": "GK",
+      "picture": "https://via.placeholder.com/80x80?text=RS"
+    },
+    {
+      "name": "Diogo Dalot",
+      "position": "RB",
+      "picture": "https://via.placeholder.com/80x80?text=DD"
+    },
+    {
+      "name": "Nelson Semedo",
+      "position": "RB",
+      "picture": "https://via.placeholder.com/80x80?text=NS"
+    },
+    {
+      "name": "Tomas Araujo",
+      "position": "CB",
+      "picture": "https://via.placeholder.com/80x80?text=TA"
+    },
+    {
+      "name": "Renato Veiga",
+      "position": "CB",
+      "picture": "https://via.placeholder.com/80x80?text=RV"
+    },
+    {
+      "name": "Ruben Neves",
+      "position": "CM",
+      "picture": "https://via.placeholder.com/80x80?text=RN"
+    }
+  ],
+  "reserves": [
+    {
+      "name": "Samuel Costa",
+      "position": "CM",
+      "picture": "https://via.placeholder.com/80x80?text=SC"
+    },
+    {
+      "name": "Matheus Nunes",
+      "position": "LB",
+      "picture": "https://via.placeholder.com/80x80?text=MN"
+    },
+    {
+      "name": "Pedro Neto",
+      "position": "RW",
+      "picture": "https://via.placeholder.com/80x80?text=PN"
+    },
+    {
+      "name": "Francisco Conceicao",
+      "position": "RW",
+      "picture": "https://via.placeholder.com/80x80?text=FC"
+    },
+    {
+      "name": "Francisco Trincao",
+      "position": "RW",
+      "picture": "https://via.placeholder.com/80x80?text=FT"
+    },
+    {
+      "name": "Joao Felix",
+      "position": "LW",
+      "picture": "https://via.placeholder.com/80x80?text=JF"
+    },
+    {
+      "name": "Goncalo Guedes",
+      "position": "LW",
+      "picture": "https://via.placeholder.com/80x80?text=GG"
+    },
+    {
+      "name": "Goncalo Ramos",
+      "position": "ST",
+      "picture": "https://via.placeholder.com/80x80?text=GR"
+    }
+  ]
+},
+{
+  "name": "Belgium",
+  "ratings": {
+    "attack": 86,
+    "midfield": 87,
+    "defense": 83,
+    "overall": 85
+  },
+  "manager": {
+    "name": "Rudi Garcia",
+    "picture": "https://via.placeholder.com/120x120?text=RG"
+  },
+  "formation": "4-3-3",
+  "startingXI": [
+    {
+      "name": "Thibaut Courtois",
+      "position": "GK",
+      "picture": "https://via.placeholder.com/80x80?text=TC"
+    },
+    {
+      "name": "Timothy Castagne",
+      "position": "RB",
+      "picture": "https://via.placeholder.com/80x80?text=TC"
+    },
+    {
+      "name": "Zeno Debast",
+      "position": "CB",
+      "picture": "https://via.placeholder.com/80x80?text=ZD"
+    },
+    {
+      "name": "Arthur Theate",
+      "position": "CB",
+      "picture": "https://via.placeholder.com/80x80?text=AT"
+    },
+    {
+      "name": "Maxim De Cuyper",
+      "position": "LB",
+      "picture": "https://via.placeholder.com/80x80?text=MD"
+    },
+    {
+      "name": "Amadou Onana",
+      "position": "CM",
+      "picture": "https://via.placeholder.com/80x80?text=AO"
+    },
+    {
+      "name": "Youri Tielemans",
+      "position": "CM",
+      "picture": "https://via.placeholder.com/80x80?text=YT"
+    },
+    {
+      "name": "Kevin De Bruyne",
+      "position": "AM",
+      "picture": "https://via.placeholder.com/80x80?text=KD"
+    },
+    {
+      "name": "Jeremy Doku",
+      "position": "RW",
+      "picture": "https://via.placeholder.com/80x80?text=JD"
+    },
+    {
+      "name": "Leandro Trossard",
+      "position": "LW",
+      "picture": "https://via.placeholder.com/80x80?text=LT"
+    },
+    {
+      "name": "Romelu Lukaku",
+      "position": "ST",
+      "picture": "https://via.placeholder.com/80x80?text=RL"
+    }
+  ],
+  "substitutes": [
+    {
+      "name": "Mats Sels",
+      "position": "GK",
+      "picture": "https://via.placeholder.com/80x80?text=MS"
+    },
+    {
+      "name": "Senne Lammens",
+      "position": "GK",
+      "picture": "https://via.placeholder.com/80x80?text=SL"
+    },
+    {
+      "name": "Koni De Winter",
+      "position": "CB",
+      "picture": "https://via.placeholder.com/80x80?text=KW"
+    },
+    {
+      "name": "Brandon Mechele",
+      "position": "CB",
+      "picture": "https://via.placeholder.com/80x80?text=BM"
+    },
+    {
+      "name": "Thomas Meunier",
+      "position": "RB",
+      "picture": "https://via.placeholder.com/80x80?text=TM"
+    },
+    {
+      "name": "Nicolas Raskin",
+      "position": "CM",
+      "picture": "https://via.placeholder.com/80x80?text=NR"
+    },
+    {
+      "name": "Hans Vanaken",
+      "position": "CM",
+      "picture": "https://via.placeholder.com/80x80?text=HV"
+    }
+  ],
+  "reserves": [
+    {
+      "name": "Axel Witsel",
+      "position": "CM",
+      "picture": "https://via.placeholder.com/80x80?text=AW"
+    },
+    {
+      "name": "Nathan Ngoy",
+      "position": "CB",
+      "picture": "https://via.placeholder.com/80x80?text=NN"
+    },
+    {
+      "name": "Joaquin Seys",
+      "position": "LB",
+      "picture": "https://via.placeholder.com/80x80?text=JS"
+    },
+    {
+      "name": "Charles De Ketelaere",
+      "position": "AM",
+      "picture": "https://via.placeholder.com/80x80?text=CK"
+    },
+    {
+      "name": "Alexis Saelemaekers",
+      "position": "RW",
+      "picture": "https://via.placeholder.com/80x80?text=AS"
+    },
+    {
+      "name": "Dodi Lukebakio",
+      "position": "RW",
+      "picture": "https://via.placeholder.com/80x80?text=DL"
+    },
+    {
+      "name": "Matias Fernandez-Pardo",
+      "position": "LW",
+      "picture": "https://via.placeholder.com/80x80?text=MF"
+    },
+    {
+      "name": "Diego Moreira",
+      "position": "LW",
+      "picture": "https://via.placeholder.com/80x80?text=DM"
+    }
+  ]
+}
+]

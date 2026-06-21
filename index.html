@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>World Cup Match Predictor</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap"
+    rel="stylesheet"
+  />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="app">
+    <section class="hero card">
+      <div class="hero-copy">
+        <p class="eyebrow">World Cup Predictor</p>
+        <h1>Predict matchups, compare squads, and view lineups.</h1>
+        <p class="subtitle">
+          Select two national teams to generate a match prediction, compare ratings,
+          inspect squad depth, and see each starting XI.
+        </p>
+      </div>
+
+      <div class="hero-stats">
+        <div class="hero-stat">
+          <span class="hero-stat-value">9</span>
+          <span class="hero-stat-label">Teams loaded</span>
+        </div>
+        <div class="hero-stat">
+          <span class="hero-stat-value">4</span>
+          <span class="hero-stat-label">Views in one screen</span>
+        </div>
+        <div class="hero-stat">
+          <span class="hero-stat-value">XI</span>
+          <span class="hero-stat-label">Lineup display</span>
+        </div>
+      </div>
+    </section>
+
+    <section class="card control-card">
+      <div class="section-heading">
+        <p class="section-kicker">Match setup</p>
+        <h2>Choose the teams</h2>
+      </div>
+
+      <div class="selectors">
+        <div>
+          <label for="team1">Team 1</label>
+          <select id="team1">
+            <option value="">Select a team</option>
+          </select>
+        </div>
+
+        <div>
+          <label for="team2">Team 2</label>
+          <select id="team2">
+            <option value="">Select a team</option>
+          </select>
+        </div>
+      </div>
+
+      <button id="predictBtn" type="button">Predict Match</button>
+    </section>
+
+    <section class="results-grid">
+      <section class="card result-card">
+        <div class="section-heading">
+          <p class="section-kicker">Outcome</p>
+          <h2>Prediction</h2>
+        </div>
+        <div id="result">Choose two teams and click predict.</div>
+      </section>
+
+      <section class="card result-card">
+        <div class="section-heading">
+          <p class="section-kicker">Ratings</p>
+          <h2>Team Comparison</h2>
+        </div>
+        <div id="comparison">Pick two teams to compare their stats.</div>
+      </section>
+    </section>
+
+    <section class="card result-card">
+      <div class="section-heading">
+        <p class="section-kicker">Depth chart</p>
+        <h2>Squad Details</h2>
+      </div>
+      <div id="squads">Pick two teams to view manager, formation, and squad lists.</div>
+    </section>
+
+    <section class="card result-card">
+      <div class="section-heading">
+        <p class="section-kicker">Tactical view</p>
+        <h2>Lineup View</h2>
+      </div>
+      <div id="lineups">Pick two teams to view their starting XI on the pitch.</div>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
